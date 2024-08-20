@@ -1,0 +1,2223 @@
+{
+    "status": true,
+    "message": "",
+    "responseData": {
+        "productGists": [
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-713_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-713",
+                "freeShipping": true,
+                "mrp": 750,
+                "version": "1.0.5",
+                "inventory": 10,
+                "sellingPrice": 179,
+                "offers": null,
+                "productNameEN": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=b-PCZzNNKwU"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=cmJMYGLneD4"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 179,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "HUMIC POWER NX",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-713?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "200 g",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "2 kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 4000,
+                        "sellingPrice": 2699,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-715",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-715_N_l.jpg",
+                        "version": "1.0.5",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-036",
+                        "productName": "Humic power ",
+                        "productNameEN": "Humic power ",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 0,
+                        "mrp": 450,
+                        "version": "2.74.88",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-036_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-119",
+                        "productName": "Root Power (Humic Acid 50% min.) 200 g",
+                        "productNameEN": "Root Power (Humic Acid 50% min.) 200 g",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 275,
+                        "mrp": 450,
+                        "version": "1.97.43",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-119_N2_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "ATUL_1197"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-801_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Power Gel (Organic Plant Nutrient) 40 g Sachet",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-801",
+                "freeShipping": false,
+                "mrp": 75,
+                "version": "1.0.8",
+                "inventory": 10,
+                "sellingPrice": 69,
+                "offers": null,
+                "productNameEN": "Power Gel (Organic Plant Nutrient) 40 g Sachet",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=-aOAlP10AoY"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=simbEvOWtbw",
+                        "https://www.youtube.com/watch?v=VSKloCfkS3U",
+                        "https://www.youtube.com/watch?v=jui6zX7i6jU",
+                        "https://www.youtube.com/watch?v=oAyuUAxAbMs",
+                        "https://www.youtube.com/watch?v=RnE52J0hsTc",
+                        "https://www.youtube.com/watch?v=16TASjBWnf0",
+                        "https://www.youtube.com/watch?v=Q5tUanTsn50"
+                    ],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 69,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "POWER GEL",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-801?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "40g",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-443",
+                        "productName": "Bhumika (Organic Plant Vitaliser) 4 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 4 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 625,
+                        "mrp": 810,
+                        "version": "1.26.23",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-443_N3_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-612",
+                        "productName": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 1499,
+                        "mrp": 2000,
+                        "version": "1.0.8",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-612_N4_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-627",
+                        "productName": "Bhumika (Organic Plant Vitaliser) 2 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 2 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 299,
+                        "mrp": 425,
+                        "version": "1.0.8",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-627_N1_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Power Gel"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-119_N2_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Root Power (Humic Acid 50% min.) 200 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-119",
+                "freeShipping": false,
+                "mrp": 450,
+                "version": "1.97.43",
+                "inventory": 10,
+                "sellingPrice": 275,
+                "offers": null,
+                "productNameEN": "Root Power (Humic Acid 50% min.) 200 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=PuhlvOycGRc"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=NgJmAtWrcJs"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 275,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "ROOT POWER",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 1,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-119?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "200 g",
+                "variants": [],
+                "alternateProductWithSameChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-715",
+                        "productName": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "productNameEN": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 2699,
+                        "mrp": 4000,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-715_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-036",
+                        "productName": "Humic power ",
+                        "productNameEN": "Humic power ",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 0,
+                        "mrp": 450,
+                        "version": "2.74.88",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-036_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-713",
+                        "productName": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "productNameEN": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 179,
+                        "mrp": 750,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-713_N_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Root Power"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-786_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Power Grow HD (15:30:05:01)250 gm",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-786",
+                "freeShipping": true,
+                "mrp": 600,
+                "version": "1.0.63",
+                "inventory": 10,
+                "sellingPrice": 429,
+                "offers": null,
+                "productNameEN": "Power Grow HD (15:30:05:01)250 gm",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=d9rOTHCwIjk"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=uR1FaIMpJk0"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 429,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "WSF",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-786?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-788",
+                        "productName": "Power Grow HD(00:12:45) 250 gm",
+                        "productNameEN": "Power Grow HD(00:12:45) 250 gm",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 449,
+                        "mrp": 600,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-788_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-356",
+                        "productName": "Compo Expert Basfoliar K40 WP (40% K2O) 1 kg",
+                        "productNameEN": "Compo Expert Basfoliar K40 WP (40% K2O) 1 kg",
+                        "brandID": "9da491e9-9de6-4de5-8212-00451ca1bef6",
+                        "sellingPrice": 0,
+                        "mrp": 900,
+                        "version": "1.0.7",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-356_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-402",
+                        "productName": "Yaravita Bud Builder 1 kg",
+                        "productNameEN": "Yaravita Bud Builder 1 kg",
+                        "brandID": "b6ee4b7d-fb03-4b9e-b810-6cf801b1d56a",
+                        "sellingPrice": 0,
+                        "mrp": 1400,
+                        "version": "4.96.59",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-402_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-788_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Power Grow HD(00:12:45) 250 gm",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-788",
+                "freeShipping": true,
+                "mrp": 600,
+                "version": "1.0.4",
+                "inventory": 10,
+                "sellingPrice": 449,
+                "offers": null,
+                "productNameEN": "Power Grow HD(00:12:45) 250 gm",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=t1nCGIuZZuk"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=IwE9CFaGglY"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 449,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "WSF",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-788?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-786",
+                        "productName": "Power Grow HD (15:30:05:01)250 gm",
+                        "productNameEN": "Power Grow HD (15:30:05:01)250 gm",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 429,
+                        "mrp": 600,
+                        "version": "1.0.63",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-786_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-356",
+                        "productName": "Compo Expert Basfoliar K40 WP (40% K2O) 1 kg",
+                        "productNameEN": "Compo Expert Basfoliar K40 WP (40% K2O) 1 kg",
+                        "brandID": "9da491e9-9de6-4de5-8212-00451ca1bef6",
+                        "sellingPrice": 0,
+                        "mrp": 900,
+                        "version": "1.0.7",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-356_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-759",
+                        "productName": "Sanchaar (Bio-Enriched Organic Manure) 10 kg",
+                        "productNameEN": "Sanchaar (Bio-Enriched Organic Manure) 10 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 0,
+                        "mrp": 1500,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-759_N_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CP-412_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 10 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CP-412",
+                "freeShipping": false,
+                "mrp": 37,
+                "version": "1.24.89",
+                "inventory": 10,
+                "sellingPrice": 35,
+                "offers": null,
+                "productNameEN": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 10 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=E__zTl9ioec"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=5f94S8aOZ0Y"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 35,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "VITAVAX POWER",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CP-412?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "10 gm",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "100 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 246,
+                        "sellingPrice": 220,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-203",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-203_l.jpg",
+                        "version": "1.13.8",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "250 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 576,
+                        "sellingPrice": 510,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-356",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-356_l.jpg",
+                        "version": "1.1.84",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-687",
+                        "productName": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "productNameEN": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "brandID": "56e18cfc-100b-4640-8dd4-d08e8376c863",
+                        "sellingPrice": 699,
+                        "mrp": 845,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-687_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Vitavax Power"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CP-356_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 250 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CP-356",
+                "freeShipping": true,
+                "mrp": 576,
+                "version": "1.1.84",
+                "inventory": 10,
+                "sellingPrice": 510,
+                "offers": null,
+                "productNameEN": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 250 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=E__zTl9ioec"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=5f94S8aOZ0Y"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 510,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "VITAVAX POWER",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CP-356?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "250 gm",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "100 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 246,
+                        "sellingPrice": 220,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-203",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-203_l.jpg",
+                        "version": "1.13.8",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "10 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 37,
+                        "sellingPrice": 35,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-412",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-412_l.jpg",
+                        "version": "1.24.89",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-687",
+                        "productName": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "productNameEN": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "brandID": "56e18cfc-100b-4640-8dd4-d08e8376c863",
+                        "sellingPrice": 699,
+                        "mrp": 845,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-687_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Vitavax Power"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CP-203_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 100 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CP-203",
+                "freeShipping": true,
+                "mrp": 246,
+                "version": "1.13.8",
+                "inventory": 10,
+                "sellingPrice": 220,
+                "offers": null,
+                "productNameEN": "Dhanuka Vitavax Power (Carboxin 37.5% + Thiram 37.5% DS) 100 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=E__zTl9ioec"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=5f94S8aOZ0Y"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 220,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "VITAVAX POWER",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CP-203?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "100 gm",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "250 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 576,
+                        "sellingPrice": 510,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-356",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-356_l.jpg",
+                        "version": "1.1.84",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "10 gm",
+                        "minimumSellingPrice": 0,
+                        "mrp": 37,
+                        "sellingPrice": 35,
+                        "skuName": "",
+                        "sku_code": "AGS-CP-412",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CP-412_l.jpg",
+                        "version": "1.24.89",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-687",
+                        "productName": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "productNameEN": "Indofil Sprint (Mancozeb 50% + Carbendazim 25% WS) 500 g",
+                        "brandID": "56e18cfc-100b-4640-8dd4-d08e8376c863",
+                        "sellingPrice": 699,
+                        "mrp": 845,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-687_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Vitavax Power"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-715_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-715",
+                "freeShipping": true,
+                "mrp": 4000,
+                "version": "1.0.5",
+                "inventory": 10,
+                "sellingPrice": 2699,
+                "offers": null,
+                "productNameEN": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [],
+                    "testimonials": [],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 2699,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "HUMIC POWER",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-715?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "2 kg",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "200 g",
+                        "minimumSellingPrice": 1,
+                        "mrp": 750,
+                        "sellingPrice": 179,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-713",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-713_N_l.jpg",
+                        "version": "1.0.5",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "alternateProductWithSameChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-036",
+                        "productName": "Humic power ",
+                        "productNameEN": "Humic power ",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 0,
+                        "mrp": 450,
+                        "version": "2.74.88",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-036_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-119",
+                        "productName": "Root Power (Humic Acid 50% min.) 200 g",
+                        "productNameEN": "Root Power (Humic Acid 50% min.) 200 g",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 275,
+                        "mrp": 450,
+                        "version": "1.97.43",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-119_N2_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "ATUL_1197"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-HW-099_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "KK Power Sprayer KK-KPS-708-AL1 2 Stroke Petrol (20L)",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-HW-099",
+                "freeShipping": true,
+                "mrp": 9373,
+                "version": "1.14.94",
+                "inventory": 10,
+                "sellingPrice": 7020,
+                "offers": null,
+                "productNameEN": "KK Power Sprayer KK-KPS-708-AL1 2 Stroke Petrol (20L)",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [],
+                    "testimonials": [],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 7020,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": false,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "POWER SPRAY",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-HW-099?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-378_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Florofix (Protein Hydrolysate Powder 50% TC) 250g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-378",
+                "freeShipping": true,
+                "mrp": 590,
+                "version": "1.0.7",
+                "inventory": 10,
+                "sellingPrice": 469,
+                "offers": null,
+                "productNameEN": "Florofix (Protein Hydrolysate Powder 50% TC) 250g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=scpgAeW4PC8",
+                        "https://www.youtube.com/watch?v=qCdpKRASfj8"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=3wcidNfs0uI",
+                        "https://www.youtube.com/watch?v=Liuafz1XRMs"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=cJiQQQNv2ww"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 469,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "FLOROFIX",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-378?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "250g",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-737",
+                        "productName": "Faster (Biostimulant) 500ml",
+                        "productNameEN": "Faster (Biostimulant) 500ml",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 850,
+                        "mrp": 1000,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-737_N1_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-738",
+                        "productName": "Faster (Biostimulant) 250ml",
+                        "productNameEN": "Faster (Biostimulant) 250ml",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 489,
+                        "mrp": 500,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-738_N1_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-425",
+                        "productName": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                        "productNameEN": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 419,
+                        "mrp": 600,
+                        "version": "1.0.85",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-425_N2_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Florofix"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-425_N2_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-425",
+                "freeShipping": true,
+                "mrp": 600,
+                "version": "1.0.85",
+                "inventory": 10,
+                "sellingPrice": 419,
+                "offers": null,
+                "productNameEN": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=tYrIKFGvLgI"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=PWGQkbt0B04",
+                        "https://www.youtube.com/watch?v=aiv9P6OEQlQ"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=7JLLsWb1XQw"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 419,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "SULPHUR 90G",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-425?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "3000 gms",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "30 kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 6000,
+                        "sellingPrice": 3999,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-426",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-426_N2_l.jpg",
+                        "version": "4.32.21",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "1 kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 200,
+                        "sellingPrice": 159,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-472",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-472_N1_l.jpg",
+                        "version": "1.0.53",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "10x3kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 6000,
+                        "sellingPrice": 4099,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-582",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-582_N_l.jpg",
+                        "version": "1.0.7",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Sulphur 90G"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-472_N1_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Sulphur 90G (Sulphur 90% Powder) 1 kg",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-472",
+                "freeShipping": true,
+                "mrp": 200,
+                "version": "1.0.53",
+                "inventory": 10,
+                "sellingPrice": 159,
+                "offers": null,
+                "productNameEN": "Sulphur 90G (Sulphur 90% Powder) 1 kg",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=tYrIKFGvLgI"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=PWGQkbt0B04",
+                        "https://www.youtube.com/watch?v=aiv9P6OEQlQ"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=7JLLsWb1XQw"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 159,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "SULPHUR 90G",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-472?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "1 kg",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "3000 gms",
+                        "minimumSellingPrice": 1,
+                        "mrp": 600,
+                        "sellingPrice": 419,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-425",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-425_N2_l.jpg",
+                        "version": "1.0.85",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "30 kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 6000,
+                        "sellingPrice": 3999,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-426",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-426_N2_l.jpg",
+                        "version": "4.32.21",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "10x3kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 6000,
+                        "sellingPrice": 4099,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-582",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-582_N_l.jpg",
+                        "version": "1.0.7",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Sulphur 90G"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-426_N2_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Sulphur 90G (Sulphur 90% Powder) 30 kg",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-426",
+                "freeShipping": true,
+                "mrp": 6000,
+                "version": "4.32.21",
+                "inventory": 10,
+                "sellingPrice": 3999,
+                "offers": null,
+                "productNameEN": "Sulphur 90G (Sulphur 90% Powder) 30 kg",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=tYrIKFGvLgI"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=PWGQkbt0B04",
+                        "https://www.youtube.com/watch?v=aiv9P6OEQlQ"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=7JLLsWb1XQw"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 3999,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "SULPHUR 90G",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-426?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "30 kg",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "3000 gms",
+                        "minimumSellingPrice": 1,
+                        "mrp": 600,
+                        "sellingPrice": 419,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-425",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-425_N2_l.jpg",
+                        "version": "1.0.85",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "1 kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 200,
+                        "sellingPrice": 159,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-472",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-472_N1_l.jpg",
+                        "version": "1.0.53",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "10x3kg",
+                        "minimumSellingPrice": 1,
+                        "mrp": 6000,
+                        "sellingPrice": 4099,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-582",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-582_N_l.jpg",
+                        "version": "1.0.7",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Sulphur 90G"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-279_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Sulphur Mills Fertis WG (Sulphur 90% Powder) 3 kg",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-279",
+                "freeShipping": true,
+                "mrp": 510,
+                "version": "1.10.68",
+                "inventory": 10,
+                "sellingPrice": 350,
+                "offers": null,
+                "productNameEN": "Sulphur Mills Fertis WG (Sulphur 90% Powder) 3 kg",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=OUJZZa-5Jc4"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=VaOC03Pb7Vg"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 350,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": false,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "FERTIS",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-279?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "3000 gms",
+                "variants": [],
+                "alternateProductWithSameChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-582",
+                        "productName": "Sulphur 90G 10x3kg (Drum)",
+                        "productNameEN": "Sulphur 90G 10x3kg (Drum)",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 4099,
+                        "mrp": 6000,
+                        "version": "1.0.7",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-582_N_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-1245",
+                        "productName": "AgroStar Sulphur Fast FWD (Sulphur 80% WDG) 1 kg",
+                        "productNameEN": "AgroStar Sulphur Fast FWD (Sulphur 80% WDG) 1 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 139,
+                        "mrp": 150,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-1245_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-425",
+                        "productName": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                        "productNameEN": "Sulphur 90G (Sulphur 90% Powder) 3 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 419,
+                        "mrp": 600,
+                        "version": "1.0.85",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-425_N2_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Fertis WG"
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CP-1125_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Biosens Sticky Trap Blue (Set of 5)",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CP-1125",
+                "freeShipping": true,
+                "mrp": 500,
+                "version": "2.1.24",
+                "inventory": 10,
+                "sellingPrice": 229,
+                "offers": null,
+                "productNameEN": "Biosens Sticky Trap Blue (Set of 5)",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [],
+                    "testimonials": [],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 229,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "STICKY TRAP",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CP-1125?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "alternateProductWithSameChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-118",
+                        "productName": "Barrix Magic Sticker Blue (Set of 5)",
+                        "productNameEN": "Barrix Magic Sticker Blue (Set of 5)",
+                        "brandID": "c331720b-86d4-4143-8b8e-1b6c7b25d54b",
+                        "sellingPrice": 220,
+                        "mrp": 500,
+                        "version": "1.78.92",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-118_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-1124",
+                        "productName": "Biosens Sticky Trap Yellow (Set of 5)",
+                        "productNameEN": "Biosens Sticky Trap Yellow (Set of 5)",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 229,
+                        "mrp": 500,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-1124__N1_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CP-1206",
+                        "productName": "Gumtree Delta Trap",
+                        "productNameEN": "Gumtree Delta Trap",
+                        "brandID": "662fbfbf-0ddd-466c-bbbe-1c37e7c66cba",
+                        "sellingPrice": 0,
+                        "mrp": 50,
+                        "version": "1.0.2",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-1206_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CP-518_N1_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "PCI Insect Funnel Trap",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CP-518",
+                "freeShipping": true,
+                "mrp": 35,
+                "version": "1.11.14",
+                "inventory": 10,
+                "sellingPrice": 35,
+                "offers": null,
+                "productNameEN": "PCI Insect Funnel Trap",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [],
+                    "testimonials": [],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 35,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "TRAP",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CP-518?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CP-1299",
+                        "productName": "Biosens Melon Fly Lure - 1 Unit",
+                        "productNameEN": "Biosens Melon Fly Lure - 1 Unit",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 79,
+                        "mrp": 100,
+                        "version": "1.0.2",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-1299_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CP-1300",
+                        "productName": "Biosens Tuta Absoluta - 1 Unit",
+                        "productNameEN": "Biosens Tuta Absoluta - 1 Unit",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 79,
+                        "mrp": 100,
+                        "version": "1.0.2",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-1300_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CP-114",
+                        "productName": "Barrix Catch Fruit Fly Lure 1 Piece",
+                        "productNameEN": "Barrix Catch Fruit Fly Lure 1 Piece",
+                        "brandID": "c331720b-86d4-4143-8b8e-1b6c7b25d54b",
+                        "sellingPrice": 95,
+                        "mrp": 90,
+                        "version": "1.4.54",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CP-114_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-722_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Okra Special (Biostimulant) 500 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-722",
+                "freeShipping": true,
+                "mrp": 800,
+                "version": "1.0.5",
+                "inventory": 10,
+                "sellingPrice": 459,
+                "offers": null,
+                "productNameEN": "Okra Special (Biostimulant) 500 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=6aJdiy8JaDA"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=PqqZJ0Dfcv8"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 459,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "OKRA SPECIAL",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 1,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-722?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-765",
+                        "productName": "Nutri Pro Magnesium Sulphate 1 kg",
+                        "productNameEN": "Nutri Pro Magnesium Sulphate 1 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 89,
+                        "mrp": 200,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-765_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-813",
+                        "productName": "Pure Kelp (Seaweed Extract) 50 ml Pouch",
+                        "productNameEN": "Pure Kelp (Seaweed Extract) 50 ml Pouch",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 69,
+                        "mrp": 150,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-813_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-814",
+                        "productName": "Pure Kelp (Seaweed Extract) 250 ml",
+                        "productNameEN": "Pure Kelp (Seaweed Extract) 250 ml",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 269,
+                        "mrp": 425,
+                        "version": "1.0.4",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-814_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-757_N_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "PlANTIGAIN DS 25 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-757",
+                "freeShipping": true,
+                "mrp": 450,
+                "version": "1.0.5",
+                "inventory": 10,
+                "sellingPrice": 199,
+                "offers": null,
+                "productNameEN": "PlANTIGAIN DS 25 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [],
+                    "testimonials": [],
+                    "descriptionVideos": []
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 199,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "PLANTIGAIN",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-757?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": null,
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-713",
+                        "productName": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "productNameEN": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 179,
+                        "mrp": 750,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-713_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-715",
+                        "productName": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "productNameEN": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 2699,
+                        "mrp": 4000,
+                        "version": "1.0.5",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-715_N_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-036",
+                        "productName": "Humic power ",
+                        "productNameEN": "Humic power ",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 0,
+                        "mrp": 450,
+                        "version": "2.74.88",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-036_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": ""
+            },
+            {
+                "buyBar": true,
+                "leadCaptureEnabled": false,
+                "productImages": [
+                    {
+                        "type": "thumb",
+                        "name": "https://static.agrostar.in/static/AGS-CN-208_N3_l.jpg"
+                    }
+                ],
+                "priceOnApp": true,
+                "productName": "Sugarcane Special (Biostimulant) 500 g",
+                "needExpertHelp": true,
+                "displayMessage": "",
+                "skuCode": "AGS-CN-208",
+                "freeShipping": true,
+                "mrp": 850,
+                "version": "1.22.37",
+                "inventory": 10,
+                "sellingPrice": 599,
+                "offers": null,
+                "productNameEN": "Sugarcane Special (Biostimulant) 500 g",
+                "rating": {
+                    "totalCount": 0,
+                    "average": 0,
+                    "showRatingBars": false
+                },
+                "brandName": "",
+                "brandImage": "",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=JxTRu0CNMck",
+                        "https://www.youtube.com/watch?v=_57enidMGnk"
+                    ],
+                    "testimonials": [],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=IXG6TnsAzzM"
+                    ]
+                },
+                "isCashDiscountApplicable": false,
+                "cashDiscountBenefits": null,
+                "redeemablePointsAtStore": 0,
+                "priceAtStore": 599,
+                "turnoverData": {
+                    "turnoverDetails": null,
+                    "turnOverSchemeBenefits": null
+                },
+                "enabledForSaathi": true,
+                "enabledForFieldOfficer": true,
+                "licenseCheckRequired": true,
+                "productClass": "",
+                "isPLProduct": true,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "productSalesGroup": "SUGARCANE SPECIAL",
+                "maxPlacementAmount": null,
+                "maxOrderAmount": null,
+                "creditProductMovedToCashReason": null,
+                "pendingAmount": null,
+                "minimumOrderQuantity": 0,
+                "addToCart": {
+                    "addToCartFlag": false,
+                    "reason": null
+                },
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-208?farmerId=1906490&language=en&userId=2047305&source=APPMH",
+                "variantString": "500 g",
+                "variants": [],
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "skuCode": "AGS-CN-651",
+                        "productName": "Kan Biosys Taba Drip (Seaweed Extract) 1 litre",
+                        "productNameEN": "Kan Biosys Taba Drip (Seaweed Extract) 1 litre",
+                        "brandID": "be88ffbf-cc84-4776-ab63-9d85607d2cf0",
+                        "sellingPrice": 599,
+                        "mrp": 715,
+                        "version": "1.0.7",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-651_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-269",
+                        "productName": "AllStar 250 gm",
+                        "productNameEN": "AllStar 250 gm",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 349,
+                        "mrp": 480,
+                        "version": "1.33.92",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-269_N1_l.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "skuCode": "AGS-CN-612",
+                        "productName": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "sellingPrice": 1499,
+                        "mrp": 2000,
+                        "version": "1.0.8",
+                        "productImages": [
+                            {
+                                "type": "thumb",
+                                "name": "https://static.agrostar.in/static/AGS-CN-612_N4_l.jpg"
+                            }
+                        ]
+                    }
+                ],
+                "storeInventory": 0,
+                "productGroup": "Sugarcane Special"
+            }
+        ],
+        "skippedSkus": {},
+        "pageNo": 1,
+        "pageSize": 30,
+        "totalPageNo": 1,
+        "totalCount": 21
+    }
+}

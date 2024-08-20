@@ -1,0 +1,614 @@
+{
+    "message": "",
+    "responseData": {
+        "pageNo": 1,
+        "pageSize": 30,
+        "productGists": [
+            {
+                "addToCart": {
+                    "addToCartFlag": true,
+                    "reason": []
+                },
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 810,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-443_N3_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Bhumika (Organic Plant Vitaliser) 4 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 4 kg",
+                        "sellingPrice": 0,
+                        "skuCode": "AGS-CN-443",
+                        "version": "1.26.23"
+                    },
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 2000,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-612_N4_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "productNameEN": "Bhumika (Organic Plant Vitaliser) 10 kg",
+                        "sellingPrice": 0,
+                        "skuCode": "AGS-CN-612",
+                        "version": "1.0.8"
+                    }
+                ],
+                "brandImage": "",
+                "brandName": "",
+                "buyBar": false,
+                "cashDiscountBenefits": {
+                    "no-offer": [
+                        {
+                            "benefitAmount": 12,
+                            "benefitText": "",
+                            "benefitType": "ABSOLUTE",
+                            "effectiveOfferPrice": 217,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        }
+                    ]
+                },
+                "creditPeriod": 30,
+                "creditPeriodDate": "2024-12-15",
+                "creditProductMovedToCashReason": null,
+                "displayMessage": "",
+                "enabledForFieldOfficer": true,
+                "enabledForSaathi": true,
+                "freeShipping": true,
+                "inventory": 1,
+                "isCashDiscountApplicable": true,
+                "isPLProduct": true,
+                "leadCaptureEnabled": false,
+                "licenseCheckRequired": true,
+                "maxOrderAmount": 100000,
+                "maxPlacementAmount": 100000,
+                "minimumOrderQuantity": 1,
+                "mrp": 650,
+                "needExpertHelp": true,
+                "offers": null,
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-004?farmerId=1906490&language=en&userId=0&source=B2BMH",
+                "pendingAmount": null,
+                "priceAtStore": 229,
+                "priceOnApp": true,
+                "productClass": "B",
+                "productGroup": "Power Gel",
+                "productImages": [
+                    {
+                        "name": "https://static.agrostar.in/static/AGS-CN-004_N3_l.jpg",
+                        "type": "thumb"
+                    }
+                ],
+                "productName": "Power Gel (Organic Plant Nutrient) 500 g",
+                "productNameEN": "Power Gel (Organic Plant Nutrient) 500 g",
+                "productSalesGroup": "POWER GEL",
+                "rating": {
+                    "average": 3.9,
+                    "showRatingBars": true,
+                    "totalCount": 31
+                },
+                "redeemablePointsAtStore": 0,
+                "sellingPrice": 229,
+                "skuCode": "AGS-CN-004",
+                "storeInventory": 0,
+                "turnoverData": {
+                    "turnOverSchemeBenefits": null,
+                    "turnoverDetails": null
+                },
+                "variantString": "500g",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "500 Gms",
+                        "minimumSellingPrice": 0,
+                        "mrp": 650,
+                        "sellingPrice": 631,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-006",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-006_2N_l.jpg",
+                        "version": "3.54.6",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "40g",
+                        "minimumSellingPrice": 1,
+                        "mrp": 75,
+                        "sellingPrice": 699,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-801",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-801_N_l.jpg",
+                        "version": "1.0.8",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "version": "7.11.18",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=W29qLf_r_xQ"
+                    ],
+                    "descriptionVideos": [],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=simbEvOWtbw",
+                        "https://www.youtube.com/watch?v=VSKloCfkS3U",
+                        "https://www.youtube.com/watch?v=jui6zX7i6jU",
+                        "https://www.youtube.com/watch?v=oAyuUAxAbMs",
+                        "https://www.youtube.com/watch?v=RnE52J0hsTc",
+                        "https://www.youtube.com/watch?v=16TASjBWnf0",
+                        "https://www.youtube.com/watch?v=Q5tUanTsn50"
+                    ]
+                }
+            },
+            {
+                "addToCart": {
+                    "addToCartFlag": true,
+                    "reason": []
+                },
+                "alternateProductWithSimilarChemicalComposition": [
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 750,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-713_N_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "productNameEN": "Humic Power NX (Humic & Fulvic Derivative) 200g",
+                        "sellingPrice": 0,
+                        "skuCode": "AGS-CN-713",
+                        "version": "1.0.5"
+                    },
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 4000,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-715_N_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "productNameEN": "Humic Power 8X250 g (Humic & Fulvic Acid 50% min.) 2 kg Bucket",
+                        "sellingPrice": 0,
+                        "skuCode": "AGS-CN-715",
+                        "version": "1.0.5"
+                    },
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 450,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-082_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Offer Humic power Advanced powder 95% (250 Gms)",
+                        "productNameEN": "Offer Humic power Advanced powder 95% (250 Gms)",
+                        "sellingPrice": 250,
+                        "skuCode": "AGS-CN-082",
+                        "version": "1.45.51"
+                    }
+                ],
+                "brandImage": "",
+                "brandName": "",
+                "buyBar": false,
+                "cashDiscountBenefits": {
+                    "no-offer": [
+                        {
+                            "benefitAmount": 2,
+                            "benefitText": "",
+                            "benefitType": "ABSOLUTE",
+                            "effectiveOfferPrice": 629,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": 4,
+                            "benefitText": "",
+                            "benefitType": "ABSOLUTE",
+                            "effectiveOfferPrice": 627,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": 6,
+                            "benefitText": "",
+                            "benefitType": "ABSOLUTE",
+                            "effectiveOfferPrice": 625,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        }
+                    ]
+                },
+                "creditPeriod": 29,
+                "creditPeriodDate": null,
+                "creditProductMovedToCashReason": null,
+                "displayMessage": "",
+                "enabledForFieldOfficer": true,
+                "enabledForSaathi": false,
+                "freeShipping": true,
+                "inventory": 1,
+                "isCashDiscountApplicable": true,
+                "isPLProduct": true,
+                "leadCaptureEnabled": false,
+                "licenseCheckRequired": true,
+                "maxOrderAmount": 100000,
+                "maxPlacementAmount": 100000,
+                "minimumOrderQuantity": 2,
+                "mrp": 650,
+                "needExpertHelp": true,
+                "offers": null,
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-006?farmerId=1906490&language=en&userId=0&source=B2BMH",
+                "pendingAmount": null,
+                "priceAtStore": 631,
+                "priceOnApp": true,
+                "productClass": "A",
+                "productGroup": "Power Gel",
+                "productImages": [
+                    {
+                        "name": "https://static.agrostar.in/static/AGS-CN-006_2N_l.jpg",
+                        "type": "thumb"
+                    }
+                ],
+                "productName": "Free Power Gel - Plant Nutrient (500 Gms)",
+                "productNameEN": "Free Power Gel - Plant Nutrient (500 Gms)",
+                "productSalesGroup": "POWER GEL",
+                "rating": {
+                    "average": 0,
+                    "showRatingBars": false,
+                    "totalCount": 0
+                },
+                "redeemablePointsAtStore": 0,
+                "sellingPrice": 631,
+                "skuCode": "AGS-CN-006",
+                "storeInventory": 0,
+                "turnoverData": {
+                    "turnOverSchemeBenefits": null,
+                    "turnoverDetails": null
+                },
+                "variantString": "500 Gms",
+                "variants": [
+                    {
+                        "inventoryCount": 0,
+                        "label": "500g",
+                        "minimumSellingPrice": 1,
+                        "mrp": 650,
+                        "sellingPrice": 229,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-004",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-004_N3_l.jpg",
+                        "version": "7.11.18",
+                        "warehouseInventoryDetails": null
+                    },
+                    {
+                        "inventoryCount": 0,
+                        "label": "40g",
+                        "minimumSellingPrice": 1,
+                        "mrp": 75,
+                        "sellingPrice": 699,
+                        "skuName": "",
+                        "sku_code": "AGS-CN-801",
+                        "thumbImage": "https://static.agrostar.in/static/AGS-CN-801_N_l.jpg",
+                        "version": "1.0.8",
+                        "warehouseInventoryDetails": null
+                    }
+                ],
+                "version": "3.54.6",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=cnSvxvnAXkQ"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=mhBKK343df0"
+                    ],
+                    "testimonials": []
+                }
+            },
+            {
+                "addToCart": {
+                    "addToCartFlag": true,
+                    "reason": []
+                },
+                "brandImage": "",
+                "brandName": "",
+                "buyBar": false,
+                "cashDiscountBenefits": null,
+                "creditPeriod": 0,
+                "creditPeriodDate": null,
+                "creditProductMovedToCashReason": null,
+                "displayMessage": "",
+                "enabledForFieldOfficer": true,
+                "enabledForSaathi": true,
+                "freeShipping": true,
+                "inventory": 1,
+                "isCashDiscountApplicable": false,
+                "isPLProduct": true,
+                "leadCaptureEnabled": false,
+                "licenseCheckRequired": true,
+                "maxOrderAmount": 100000,
+                "maxPlacementAmount": 100000,
+                "minimumOrderQuantity": 0,
+                "mrp": 7050,
+                "needExpertHelp": true,
+                "offers": null,
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-KIT-089?farmerId=1906490&language=en&userId=0&source=B2BMH",
+                "pendingAmount": null,
+                "priceAtStore": 3900,
+                "priceOnApp": true,
+                "productClass": "",
+                "productGroup": "",
+                "productImages": [
+                    {
+                        "name": "https://static.agrostar.in/static/AGS-KIT-089_l.jpg",
+                        "type": "thumb"
+                    }
+                ],
+                "productName": "Combo - Gladiator 12*8&comma; Tarplus 11*15 & Power Gel (500 gms)",
+                "productNameEN": "Combo - Gladiator 12*8&comma; Tarplus 11*15 & Power Gel (500 gms)",
+                "productSalesGroup": "COMBO",
+                "rating": {
+                    "average": 0,
+                    "showRatingBars": false,
+                    "totalCount": 0
+                },
+                "redeemablePointsAtStore": 0,
+                "sellingPrice": 3900,
+                "skuCode": "AGS-KIT-089",
+                "storeInventory": 0,
+                "turnoverData": {
+                    "turnOverSchemeBenefits": null,
+                    "turnoverDetails": null
+                },
+                "variantString": null,
+                "variants": [],
+                "version": "1.0.11",
+                "videos": {
+                    "HTU": [],
+                    "descriptionVideos": [],
+                    "testimonials": []
+                }
+            },
+            {
+                "addToCart": {
+                    "addToCartFlag": true,
+                    "reason": []
+                },
+                "alternateProductWithSameChemicalComposition": [
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 450,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-082_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Offer Humic power Advanced powder 95% (250 Gms)",
+                        "productNameEN": "Offer Humic power Advanced powder 95% (250 Gms)",
+                        "sellingPrice": 250,
+                        "skuCode": "AGS-CN-082",
+                        "version": "1.45.51"
+                    },
+                    {
+                        "brandID": "252903be-0e04-4a71-b4d1-18b4a80b8491",
+                        "mrp": 450,
+                        "productImages": [
+                            {
+                                "name": "https://static.agrostar.in/static/AGS-CN-036_l.jpg",
+                                "type": "thumb"
+                            }
+                        ],
+                        "productName": "Humic power ",
+                        "productNameEN": "Humic power ",
+                        "sellingPrice": 1763,
+                        "skuCode": "AGS-CN-036",
+                        "version": "2.74.88"
+                    }
+                ],
+                "brandImage": "",
+                "brandName": "",
+                "buyBar": false,
+                "cashDiscountBenefits": {
+                    "no-offer": [
+                        {
+                            "benefitAmount": 10,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 629.1,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": 8,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 643.08,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": 5,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 664.05,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": 0,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 699,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": -1,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 705.99,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        },
+                        {
+                            "benefitAmount": -2,
+                            "benefitText": "",
+                            "benefitType": "PERCENTAGE",
+                            "effectiveOfferPrice": 712.98,
+                            "effectiveTotalNetPrice": 0,
+                            "id": 0,
+                            "paymentPeriod": "",
+                            "paymentPeriodEndDay": "",
+                            "perUnitCalculatedBenefitAmount": 0,
+                            "totalCalculatedBenefitAmount": 0
+                        }
+                    ]
+                },
+                "creditPeriod": 60,
+                "creditPeriodDate": "2026-07-31",
+                "creditProductMovedToCashReason": null,
+                "displayMessage": "",
+                "enabledForFieldOfficer": true,
+                "enabledForSaathi": true,
+                "freeShipping": true,
+                "inventory": 1,
+                "isCashDiscountApplicable": true,
+                "isPLProduct": true,
+                "leadCaptureEnabled": false,
+                "licenseCheckRequired": true,
+                "maxOrderAmount": 100000,
+                "maxPlacementAmount": 100000,
+                "minimumOrderQuantity": 1,
+                "mrp": 500,
+                "needExpertHelp": true,
+                "offers": null,
+                "pdpWebUrl": "ulink://android.agrostar.in/internalWebpage?url=https://test-app.agrostar.in/product/AGS-CN-035?farmerId=1906490&language=en&userId=0&source=B2BMH",
+                "pendingAmount": null,
+                "priceAtStore": 699,
+                "priceOnApp": true,
+                "productClass": "C",
+                "productGroup": "ATUL_1197",
+                "productImages": [
+                    {
+                        "name": "https://static.agrostar.in/static/AGS-CN-035_N1_l.jpg",
+                        "type": "thumb"
+                    }
+                ],
+                "productName": "Humic Power (Humic & Fulvic Acid 50% min.) 250 g",
+                "productNameEN": "Humic Power (Humic & Fulvic Acid 50% min.) 250 g",
+                "productSalesGroup": "OKRA",
+                "rating": {
+                    "average": 3.6,
+                    "showRatingBars": true,
+                    "totalCount": 7
+                },
+                "redeemablePointsAtStore": 0,
+                "sellingPrice": 699,
+                "skuCode": "AGS-CN-035",
+                "storeInventory": 0,
+                "turnoverData": {
+                    "turnOverSchemeBenefits": null,
+                    "turnoverDetails": null
+                },
+                "variantString": "250 g",
+                "variants": [],
+                "version": "5.39.51",
+                "videos": {
+                    "HTU": [
+                        "https://www.youtube.com/watch?v=kwbdMAjq0Rc",
+                        "https://www.youtube.com/watch?v=f-Jq9noWOAc"
+                    ],
+                    "descriptionVideos": [
+                        "https://www.youtube.com/watch?v=Q5nEReLwRRU",
+                        "https://www.youtube.com/watch?v=Uz-YJy1uv5k"
+                    ],
+                    "testimonials": [
+                        "https://www.youtube.com/watch?v=Uz-YJy1uv5k"
+                    ]
+                }
+            }
+        ],
+        "skippedSkus": {
+            "AGS-CN-036": [
+                "Max placement amount not defined.",
+                "Product sales group not defined."
+            ],
+            "AGS-CN-119": [
+                "CD Scheme not defined"
+            ],
+            "AGS-CN-208": [
+                "Minimum Order Quantity can not be nil or 0."
+            ],
+            "AGS-CN-786": [
+                "Product Class Missing.",
+                "Credit Period Not Available for this PL Product.",
+                "Max placement amount not defined.",
+                "Minimum Order Quantity can not be nil or 0."
+            ],
+            "AGS-CN-801": [
+                "Credit Period Not Available for this PL Product.",
+                "Minimum Order Quantity can not be nil or 0."
+            ],
+            "AGS-CP-203": [
+                "Product Class Missing.",
+                "Minimum Order Quantity can not be nil or 0."
+            ],
+            "AGS-CP-412": [
+                "Product Class Missing.",
+                "Credit Period Not Available for this PL Product.",
+                "Minimum Order Quantity can not be nil or 0."
+            ],
+            "AGS-HW-099": [
+                "Minimum Order Quantity can not be nil or 0."
+            ]
+        },
+        "totalCount": 12,
+        "totalPageNo": 1
+    },
+    "status": true
+}

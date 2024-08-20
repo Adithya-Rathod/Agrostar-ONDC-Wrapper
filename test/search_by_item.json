@@ -1,0 +1,39 @@
+{
+    "context": {
+        "domain": "nic2004:52110",
+        "action": "search",
+        "country": "IND",
+        "city": "std:080",
+        "core_version": "1.1.0",
+        "bap_id": "mockeserver.pstmn.io",
+        "bap_uri": "https://36c9c2b5-61f0-494b-8fef-2167f31d4b88.mock.pstmn.io",
+        "transaction_id": "3df395a9-c196-4678-a4d1-5eaf4f7df8dc",
+        "message_id": "1655281254860",
+        "timestamp": "2023-02-03T08:00:00.000Z",
+        "ttl": "PT30S"
+    },
+    "message": {
+        "intent": {
+            "item": {
+                "descriptor": {
+                    "name": "power"
+                }
+            },
+            "fulfillment": {
+                "type": "Delivery",
+                "end": {
+                    "location": {
+                        "gps": "12.974002,77.613458",
+                        "address": {
+                            "area_code": "560001"
+                        }
+                    }
+                }
+            },
+            "payment": {
+                "@ondc/org/buyer_app_finder_fee_type": "percent",
+                "@ondc/org/buyer_app_finder_fee_amount": "3"
+            }
+        }
+    }
+}
