@@ -29,7 +29,7 @@ class AgrostarAPIClient:
             'sec-fetch-site': 'same-site',
             'source': 'APPMH',
             'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-            'x-authorization-token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IlRCMCJ9.eyJzdWIiOjIwNDczMDUsInB3ZCI6InBia2RmMl9zaGEyNTYkMjAwMDAkZllUUzBPWlR1bnRGJHU4akhLVkhTZVZtU0E0djNDY2Z2SXNFSGlheExDQVRVc01xREhjZVNzbzA9IiwiaWF0IjoxNzIxNjUxMDgzLCJleHBhdCI6bnVsbCwidHlwIjoiU0FUIiwiZ3JwIjpbXX0.LKhuOlS_vHxeiUvrbKWjVgFGFsnxwutZ1sWLmALCpoE'
+            'x-authorization-token': 'sdsadsddaadglkdnasodaidjk'
         }
 
         
